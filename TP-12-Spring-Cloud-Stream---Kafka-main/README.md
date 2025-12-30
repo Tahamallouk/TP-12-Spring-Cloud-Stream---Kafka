@@ -249,7 +249,7 @@ kafka-console-consumer --bootstrap-server localhost:9092 --topic O3 \
 
 ## 👥 Auteurs
 
-Anas KRIR & Adam EL YOURI <br/>
+Mallouk Mohammed Taha <br/>
 Étudiants Ingénieurs — MIAGE <br/>
 TP réalisé dans le cadre du module J2EE / Middleware <br/>
 
@@ -262,7 +262,7 @@ Spring Boot · Spring Cloud Stream · Apache Kafka · Kafka Streams · Event-Dri
 ✅ Projet sous licence MIT <br/>
 Libre d’utilisation, modification et distribution à des fins pédagogiques. <br/>
 
-© 2025 — Anas KRIR & Adam EL YOURI
+© 2025 — Mallouk Mohammed Taha
 
 ---
 
